@@ -1,7 +1,7 @@
 # German version of the WLED Wiki
 
 Deutsche Übersetzung des WLED Wiki.
-[Hier] geht es zum Wiki.
+[Hier](https://github.com/Aircoookie/WLED-wiki-DE/wiki) geht es zum Wiki.
 
 Keine Garantie für Aktualität, die [englische Ausgabe](https://github.com/Aircoookie/WLED/wiki) des Wikis ist immer maßgeblich.
 
